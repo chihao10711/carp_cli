@@ -1,6 +1,6 @@
 name: carp_cli
 description: Carp CLI allows developers to create and consume reusable templates.
-version: 1.0.0
+version: 0.0.1-dev.01
 homepage: https://github.com/chihao10711/carp_cli.git
 
 environment:
